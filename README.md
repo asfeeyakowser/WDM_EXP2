@@ -57,3 +57,4 @@ G40,high,yes,excellent,yes
 <img width="1372" height="725" alt="image" src="https://github.com/user-attachments/assets/808cbf6f-5552-4fd0-9565-e58083dab815" />
 
 ### RESULT: 
+Thus, generation of association rules using apriori algorithm is executed succesfully.
